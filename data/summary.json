@@ -1,0 +1,16 @@
+{
+    "summary": [
+        {
+            "id": "1",
+            "title": "Version Control and Branch Management (Git)",
+            "deskripsi": "</h1>Test ini deskripsi</h1>",
+            "gambar": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/02/15/493056715.png"
+        },
+        {
+            "id": "2",
+            "title": "Introduction UI and UX",
+            "deskripsi": "<h1>Test deskripsi untuk UI and UX</h1>",
+            "gambar": "https://i.pinimg.com/736x/94/65/14/946514d6322a9a415926d522e2e014e6.jpg"
+        }
+    ]
+}

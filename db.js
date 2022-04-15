@@ -1,8 +1,10 @@
 const users = require("./data/users");
+const summary = require("./data/summary");
 
 
 module.exports = {
-  users
+  users,
+  summary
 }
 
 
