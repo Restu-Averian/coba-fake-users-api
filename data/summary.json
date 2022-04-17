@@ -10,5 +10,11 @@
         "title": "Introduction UI and UX",
         "deskripsi": "<h1>Test deskripsi untuk UI and UX</h1>",
         "gambar": "https://i.pinimg.com/736x/94/65/14/946514d6322a9a415926d522e2e014e6.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Figma",
+        "deskripsi": "<h1>Test deskripsi untuk UI and UX</h1>",
+        "gambar": "https://i.pinimg.com/736x/94/65/14/946514d6322a9a415926d522e2e014e6.jpg"
     }
 ]
